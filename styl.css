@@ -1,0 +1,24 @@
+body {
+    background-color: blanchedalmond;
+
+}
+
+.obramowanie {
+    border: 2px dotted black
+}
+
+.obramowanie2 {
+    border-color: antiquewhite;
+    border-radius: 3px;
+    border-color: aquamarine;
+    background: linear-gradient(180deg (234, 23, 23), black)
+
+}
+
+#a1 {
+    font-size: 40px;
+    width: 40%;
+}  
+table, th, td {
+  border: 1px solid black;
+}
